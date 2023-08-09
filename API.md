@@ -1,14 +1,12 @@
 # API
-API stands for Application Programming Interface
-It is a way to communicate between an app and a server or different applications
+API stands for Application Programming Interface. It is a way to communicate between an app and a server or different applications
 - API is about abstraction, you get only data you need
 - API is standartized
 There are a few popular formats: SOAP, GraphQL, REST
 
 
 # REST API
-REST stands for Representational State Transfer
-This is a type of API that is industry known and used
+REST stands for Representational State Transfer. This is a type of API that is industry known and used
 RESTful web service is a service that uses REST API to communicate
 Benefits: 
 1. Simple and standartize approach to communication
