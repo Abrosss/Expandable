@@ -7,6 +7,7 @@ API stands for Application Programming Interface. It is a set of rules, protocol
 # REST API
 REST stands for Representational State Transfer. This is a type of API that is industry known and used
 RESTful web service is a service that uses REST API to communicate
+Statelessness, where each request from a client to the server must contain all the information needed to understand and fulfill the request. This is a key aspect of designing RESTful APIs.
 Benefits: 
 1. Simple and standartized approach to communication
 2. Data is scalable and stateless
