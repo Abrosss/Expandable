@@ -1,15 +1,14 @@
 # API
-API stands for Application Programming Interface. It is a way to communicate between an app and a server or different applications
-- API is about abstraction, you get only data you need
-- API is standartized
-There are a few popular formats: SOAP, GraphQL, REST
+API stands for Application Programming Interface. It is a set of rules, protocols, and tools that allows different applications to communicate and interact with each other.
+- API is about abstraction: there can be a lot of code behind but you get only data you need. 
+- API is standartized. There are a few popular formats: SOAP, GraphQL, REST
 
 
 # REST API
 REST stands for Representational State Transfer. This is a type of API that is industry known and used
 RESTful web service is a service that uses REST API to communicate
 Benefits: 
-1. Simple and standartize approach to communication
+1. Simple and standartized approach to communication
 2. Data is scalable and stateless
 3. High performance and cache support
 
@@ -26,13 +25,13 @@ Request consists of:
 1. Operation (HTTP methods)
 2. Endpoint
 3. Parameters/Body (data)
-4. Headers
+4. Headers (API key, authorization)
 
 # SDK
 
 SDK stands for Software Development Kit
 Code that calls API for you
-It enables you to use APIs easily
+It enables you to use APIs easily without setting all the requests by yourself
 
 Resources:
 1. https://www.youtube.com/watch?v=lsMQRaeKNDk
