@@ -19,3 +19,8 @@ A Binary Search Tree is designed to efficiently store and retrieve data while ma
 A binary search tree, or "ordered binary tree" is a type of binary tree where the nodes are arranged in order: for each node, all elements in its left subtree are less than the parent node, and all the elements in its right subtree are greater than the parent node.
 </br>
 They are used to implement dictionaries, implement multilevel indexing in DBs. as well as Implementing search algorithms.
+
+# Bloom Filter
+A Bloom Filter is a space-efficient probabilistic data structure used for quickly checking whether an item is a member of a set or not. </br>
+It's important to note that Bloom Filters can produce false positives due to the possibility of hash collisions (different items hashing to the same positions). </br>
+A common use case is checking the availability of a username. This used to be used in search engines, and currently has found use in blockchain technology
