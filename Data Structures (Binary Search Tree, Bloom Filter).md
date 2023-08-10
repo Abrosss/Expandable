@@ -24,3 +24,16 @@ They are used to implement dictionaries, implement multilevel indexing in DBs. a
 A Bloom Filter is a space-efficient probabilistic data structure used for quickly checking whether an item is a member of a set or not. </br>
 It's important to note that Bloom Filters can produce false positives due to the possibility of hash collisions (different items hashing to the same positions). </br>
 A common use case is checking the availability of a username. This used to be used in search engines, and currently has found use in blockchain technology
+
+#  Disjoint Set ( union find)
+It is a data structure that helps keep track of elements that are divided into different groups or sets (according to some criteria)
+Disjoint-set is a data structure that keeps track of a elements broken down into sets, of which each set is unique. It is useful for keep track or elements as you can compare sets to see what set they belong to. They are two main functions used on these sets, being union and find.
+It has two primary operations: Find and Union
+Given an elelement Find will tell you what group an element belongs to. Find(x)
+Union merges two groups together
+</br>
+The main operations it supports are:
+MakeSet: This operation creates a new set containing a single element.
+Union: This operation combines two sets into one. It takes two elements from different sets and makes them part of the same set.
+Find: This operation determines which set an element belongs to. It helps find the representative or parent element of the set to which an element belongs.
+The uses for this data structure are compilers and symbolic computation, image processing, network connectivity
