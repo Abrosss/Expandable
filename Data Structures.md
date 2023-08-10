@@ -11,3 +11,11 @@ Some common types of data structures include:
 7. Hash Tables
 8. Heaps. Heap  is like a special arrangement of data where each thing (let's call them "elements") has a value, and the elements are arranged so that the tallest or smallest element is always at the top. Heaps are used in computer programs when you need to quickly find the biggest or smallest value from a collection of data.
 9. Tries. Tries are tree-like structures used for storing dynamic sets of strings. They are particularly efficient for searching and indexing.
+
+#  Binary Search Tree
+A Binary Search Tree is designed to efficiently store and retrieve data while maintaining a specific order among its elements. It's commonly used in computer science for various applications that involve searching and organizing data.
+
+</br>
+A binary search tree, or "ordered binary tree" is a type of binary tree where the nodes are arranged in order: for each node, all elements in its left subtree are less than the parent node, and all the elements in its right subtree are greater than the parent node.
+</br>
+They are used to implement dictionaries, implement multilevel indexing in DBs. as well as Implementing search algorithms.
