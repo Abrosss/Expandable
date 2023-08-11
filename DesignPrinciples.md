@@ -18,6 +18,4 @@ IoC containers, like Spring Framework for Java or Angular for TypeScript, manage
 
 Overall, Inversion of Control helps build more modular, maintainable, and flexible software systems by abstracting the management of components' lifecycles and interactions.
 
-# Concurrency design patterns
-concurrency patterns are those types of design patterns that deal with the multi-threaded programming paradigm. </br>
-Concurrency design patterns are a set of reusable solutions and best practices used in software development to manage and address challenges related to concurrent and parallel programming. Concurrency involves the execution of multiple tasks or processes simultaneously, while parallelism involves the actual execution of those tasks on multiple processors or cores. </br>
+
