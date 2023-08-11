@@ -16,3 +16,7 @@ MVVM stands for Model - View - ViewModel. It is an architectural pattern that he
 - View doesn't contain any business logic, it only contains logic to directly manipulate views.
 </br>
 MVVM is a powerful pattern to make an application scalable, easily testable and understandable
+
+# Concurrency design patterns
+concurrency patterns are those types of design patterns that deal with the multi-threaded programming paradigm. </br>
+Concurrency design patterns are a set of reusable solutions and best practices used in software development to manage and address challenges related to concurrent and parallel programming. Concurrency involves the execution of multiple tasks or processes simultaneously, while parallelism involves the actual execution of those tasks on multiple processors or cores. </br>
