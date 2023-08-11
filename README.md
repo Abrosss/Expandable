@@ -1,6 +1,6 @@
 - [API](/API.md)
 - [Data Structures (Binary Search Tree, Bloom Filter, Disjoint Set)](/DataStructures.md)
-- [Design Patterns, Principles](/DesignPatterns.md)
+- [Design Principles](/DesignPrinciples.md)
 - [Distributed Systems](/DistributedSystems.md)
 - [Higher Order Functions, Closures, Scope, Currying](/HigherOrderFunctions.md)
 - [Javascript Environment](/JAVASCRIPT.md)
